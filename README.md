@@ -1,8 +1,4 @@
 ### Hi there 👋
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cdnnnl)](https://solved.ac/cdnnnl/)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyosin-Jang&show_icons=true&theme=tokyonight&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **hyosin-Jang/hyosin-Jang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
