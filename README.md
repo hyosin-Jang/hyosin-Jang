@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=AAF0D1&height=200&section=header&text=Hyosin&fontSize=70)
-
 <div align=center>  
-
+    
 ### Hi, there 👋  
+[![hyosin-Jang's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyosin-Jang&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
     
 <br/>
 
@@ -28,6 +28,7 @@
 <br/>
 
 ### 📫 How to reach me
-<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>  
 </div>
+
 
