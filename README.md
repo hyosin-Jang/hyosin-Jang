@@ -28,6 +28,6 @@
 <br/>
 
 ### 📫 How to reach me
-[<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>](cdnnnl@gmail.com)
+<img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </div>
 
