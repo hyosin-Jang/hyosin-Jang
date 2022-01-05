@@ -1,8 +1,10 @@
     
 ### Hi, there 👋  
 <br/>
-📫 Contact Email: <cdnnnl@gmail.com >
-<br/><br/>
+
+📫 Contact Email: <cdnnnl@gmail.com>
+<br/>
+
 👩‍💻 Tech Blog: https://codingwiths.tistory.com<br/>
 <br/>
 
